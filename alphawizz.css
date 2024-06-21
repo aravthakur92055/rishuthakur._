@@ -1,0 +1,105 @@
+.font-size{
+    font-size: 14px;
+    color: #2E3B67;
+}
+.success {
+    border: 1px solid #FF6348;
+    border-color:#FF6348;
+    color: green;
+  }
+  
+  .success:hover {
+    background-color: whitesmoke;
+    color: white;
+  }
+ 
+  .info {
+    border-color: #FF6348;
+    color: dodgerblue;
+  }
+  
+  .info:hover {
+    background: whitesmoke;
+    color: white;
+  }
+  
+  .warning {
+    border-color: #FF6348;
+    color: orange;
+  }
+  
+  .warning:hover {
+    background: whitesmoke
+    color: white;
+  }
+  
+  
+  .danger {
+    border-color: #FF6348;
+    color: red;
+  }
+  
+  .danger:hover {
+    background: whitesmoke;
+    color: white;
+  }
+  
+  
+  .default {
+    background-color: #e7e7e7;
+    border-color: #FF6348;
+    color: black;
+  }
+  
+  .default:hover {
+    background: whitesmoke ;
+  }
+  .bkg-img{
+    background-color: #7DCABA;
+    background-size: 
+  }
+ .h1{ margin-top: 10px ;
+  font-size: xx-large;
+  font-size: 800px;
+    color: #0C2461;
+  }
+  .paragraph{
+    font-size: 14px;
+    color: #3C6382;
+ 
+}
+.top-box{
+    padding-top: 100px;
+    pading: 80px;
+    margin-left: 60px;
+}
+.top-box2{
+    margin-right: 150px;
+}
+#arav1{
+  
+    padding-top: 120px;
+    padding-bottom: 120px;
+   
+}
+.fontt{ font-size: 18px;
+    color: #FF6468;
+    font-style: serif;
+}
+.font2{
+    color: #0C2461;
+}
+.back-img{
+    background-color: #F6F3EA;
+}
+.aler{
+ 
+}
+.arav4{
+    margin-left: 35px;
+    color: #526C97;
+    font-size: 14px;
+}
+.arav5{
+    margin-left: 54px;
+}

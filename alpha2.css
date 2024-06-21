@@ -1,0 +1,169 @@
+#arav0802{
+    background-image: url(https://img.freepik.com/free-vector/decorative-mandala-design-with-pastel-colours_1048-5936.jpg?w=740&t=st=1715862672~exp=1715863272~hmac=32c3c4fee3a40f915c00e0bb999c3476a19319722b696d139cbd384798b27cbc);
+    width: 100%;
+    margin-top:50px ;
+}
+#hello{
+    background-image: url(https://img.freepik.com/free-photo/top-view-circle-white-background_23-2148632499.jpg?t=st=1715926461~exp=1715930061~hmac=d9bba6d02e350c8b01c689e3690116c352e7f9121ac3a319624d836f28641e9e&w=900);
+    width: 10px;
+    height: 750px;
+    margin-right: ;
+}
+.aravtahkur{
+    color: #0C2461;
+   
+}
+.icon{
+    margin-right: 10px;
+}
+.iconp{
+    margin-left: 50px;
+    color: #3C639D;
+    font-size: 14px;
+}
+.rounded{
+    border-radius: 100%;
+    width: 200px;
+    margin-left: 30px;
+    padding-top: 20%;
+}
+.watch{
+    
+    border-radius: %;
+    width: 200px;
+    margin-left: 30px;
+    padding-top: 15%;
+}
+.firstswatch{
+    width: 200px;
+    margin-left: 20%;
+
+}
+.secwatch{
+  
+    padding-top: 80%;
+    width: 250px;
+    padding-right:70%;
+    
+   
+
+}
+.background_img{
+    background-color: #F6F3EA;
+}
+.aravvv{
+    padding-top: 0%;
+}
+.arvv{ padding-bottom: 10px;
+    margin-top: 50px;
+    color: #0C2461;
+}
+#ravi{
+    margin: 1px;
+    border: 3px ;
+    border-radius: 20px;
+    background-color: #F6F3EA;
+}
+.btn{
+    background-color: #FF6348;
+}
+.text-size{
+    color: #FF6348;
+    font-size: 15px;
+}
+.text2{
+    color:  #0C2461;
+}
+.back-img2{
+    background-color: #F6F3EA;
+}
+.icon2{
+    border: 2px solid white;
+    padding: 20px;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+#border{
+   display: flex;
+   justify-content: center;
+   margin: 20px;
+   font-size: 14px;
+   padding: 4px 4px 4px 4px;
+   background-size: cover;
+  
+   border-radius: 100px;
+   background-color: white;
+}
+.rounded-circle{
+    width: 100%;
+    height: 180px;
+    margin-left: 10px;
+padding: 40px;
+object-fit: cover;
+}
+.subcribe-form{
+display: flex;
+align-items: center;
+max-width: 500px;
+margin: 0 auto;
+position: relative;
+margin-right: 60px;
+width: 500px;
+
+    
+}
+.subcribe-form input[ type="email"]{
+    padding: 15px;
+    flex: 1;
+    
+    width: 200px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    font-size: 15px;
+    position: relative;
+    width: 150px;
+    width: 250px;
+    max-width: 800px;
+    float: left;
+    
+}
+.subcribe-form button{
+padding: 13px;
+border: none;
+background-color: #FF6348;
+color: #F6F3EA;
+border-radius: 30px 30px 30px 30px;
+cursor: pointer;
+font-size: 15px;
+position: absolute;
+right: 4px;
+width: 120px;
+
+
+}
+    
+    
+    
+.brimg{
+    
+    background-color: #F6F3EA;
+}
+#arav1{
+    padding-left: 200px;
+}
+.padding-bottom{
+    padding-bottom:00px;
+}
+.iconp2{
+    
+    margin-left: 60px;
+    color: #3C639D;
+    font-size: 14px;
+}
+.iconp3{
+    
+    margin-left: 58px;
+    color: #3C639D;
+    font-size: 14px;
+}
